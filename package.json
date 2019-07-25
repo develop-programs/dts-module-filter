@@ -10,12 +10,23 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "typescript": "^3.5.3"
   },
   "devDependencies": {
     "@types/node": "^12.6.8",
     "ts-node": "^8.3.0"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/develop-programs/dts-module-filter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/develop-programs/dts-module-filter/issues"
+  },
+  "homepage": "https://croud.jp/"
 }

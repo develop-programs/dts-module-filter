@@ -53,7 +53,6 @@ filter.DtsModuleFilter({
 
 ## When using from WebPack
 
-
 This is the description method for converting to namespace by dts-module-filter after combining files using dts-bundle
 
 webpack.config.js
