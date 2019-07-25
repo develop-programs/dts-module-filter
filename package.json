@@ -1,0 +1,21 @@
+{
+  "name": "dts-module-filter",
+  "version": "1.0.0",
+  "description": "convert module-dts to namespace-dts",
+  "main": "dist/DtsModuleFilter.js",
+  "types": "dist/DtsModuleFilter.d.ts",
+  "scripts": {
+    "build": "npx tsc -b src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^3.5.3"
+  },
+  "devDependencies": {
+    "@types/node": "^12.6.8",
+    "ts-node": "^8.3.0"
+  }
+}
